@@ -1,7 +1,7 @@
 Note
 ------
 
-Eos is the result of a research project. To support our research, please cite one of our papers instead of referencing
+OMOCL is the result of a research project. To support our research, please cite one of our papers instead of referencing
 the e.g. repo in scientific articles. You can find an overview of papers about Eos here. If you are not sure which paper
 to cite, we recommend this one:
 
@@ -31,3 +31,6 @@ The OMOP Conversion Language is a declerative mappings language for openEHR arch
 | [Respiration v2](https://ckm.openehr.org/ckm/archetypes/1013.1.4218)            | 
 
 Disclaimer:
+=======
+# OMOCL
+
